@@ -1,4 +1,4 @@
-/*package workout;
+package workout;
 
 import java.util.Scanner;
 
@@ -35,5 +35,5 @@ public class ArmstrongNo {
 			System.out.println(n+" is not a armstrong number");
 		}
 	}
-}*/
+}
 
